@@ -4,7 +4,7 @@
  * @package         PHP-Lib
  * @description     Class is used to generate a strong password which contains characters of upper case, lower case, digits and symbols.
  * @copyright       Copyright (c) 2013, Peeyush Budhia
- * @author          Peeyush Budhia <peeyush.budhia@gmail.com>
+ * @author          Peeyush Budhia <peeyush.budhia@phpnmysql.com>
  * @link            http://phpnmysql.com
  * @license         GNU GPL v2.0
  */
